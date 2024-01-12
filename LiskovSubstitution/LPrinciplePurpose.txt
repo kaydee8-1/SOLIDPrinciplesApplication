@@ -1,0 +1,13 @@
+The Liskov Principle states that if class B is a subclass of class A, then each occurence of class A should be
+possible to be substituted with class B. The subclass B should always extend behaviour bur never narrow it. Overriding 
+a method in child class with different behaviour (even if logically seems correct) can lead to severe consequences 
+and unexpected results.
+
+Benefits: 
+
+ - Maintain cohesiveness between parent class and child classes
+ 
+ - Preventing from unexpected program's outcome, more successful testing, less unnecessary debugging
+ 
+Good example to show the consequences of not following Liskov Substitution Principle can be found in world's unusual 
+event and occurence (Square as unusual Rectangle, Ostrich as unusual Bird).
