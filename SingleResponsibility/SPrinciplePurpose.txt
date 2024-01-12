@@ -1,0 +1,10 @@
+According to SOLID principles, each class should handle only single responsibility (calculating, printing, saving etc.) 
+and has only single reason to change (change of data model, business logic, database logic etc.)
+
+Benefits:
+
+1. It makes the version control easier leading to:  
+    - quicker understanding of made commits
+    - avoiding complicated merge conflicts
+    
+2. It eventually simplifies collaboration of many teams preventing incompatibility of modules.
