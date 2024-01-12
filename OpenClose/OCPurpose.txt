@@ -1,0 +1,14 @@
+The Open Close principle defines the goal of OO Architecture - to makes the architecture ready for extension and avoid 
+the need to modify the already written source code. Interfaces help with that. They provide a "contract" for new
+implementations. We can create many concrete implementations for one interface which will particularly useful when 
+creating further a class that manages various of these implementation, instead of building separate class for each.
+
+Benefits:
+ 
+ - Simplicity of adding new functionality
+ 
+ - Reducing the amount of code when having build a class to manage all interfaces implementations 
+ 
+ - Reducing the scope of modification when modification is needed
+ 
+ 
