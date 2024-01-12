@@ -1,0 +1,15 @@
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\bin\Debug\net7.0\SingleResponsibility.exe
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\bin\Debug\net7.0\SingleResponsibility.deps.json
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\bin\Debug\net7.0\SingleResponsibility.runtimeconfig.json
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\bin\Debug\net7.0\SingleResponsibility.dll
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\bin\Debug\net7.0\SingleResponsibility.pdb
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\SingleResponsibility.sourcelink.json
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\SingleResponsibility.dll
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\refint\SingleResponsibility.dll
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\SingleResponsibility.pdb
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\SingleResponsibility.genruntimeconfig.cache
+C:\Users\kaya.drozd\RiderProjects\SOLIDPrinciplesApplication\SingleResponsibility\obj\Debug\net7.0\ref\SingleResponsibility.dll
