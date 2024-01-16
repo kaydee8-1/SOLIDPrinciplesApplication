@@ -2,7 +2,7 @@ using System.Runtime.InteropServices.JavaScript;
 
 namespace InterfaceSegregation.Model;
 
-public class Airplane : IVehicle, IFlyable
+public class Airplane : IVehicle, IFlyable, IMovable 
 {
     private string _productionNo;
     private string _color;
@@ -28,6 +28,16 @@ public class Airplane : IVehicle, IFlyable
     }
 
     public void Landing()
+    {
+        throw new NotImplementedException();
+    }
+
+    public void EngineOn()
+    {
+        throw new NotImplementedException();
+    }
+
+    public void EngineOff()
     {
         throw new NotImplementedException();
     }
